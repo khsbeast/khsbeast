@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm Kumar Harsh, a Competitive Programmer :man_technologist:,Full Stack Developer(MERN) :man_office_worker:,Cybersecurity Enthusiast :toolbox:,Freelancer :bow: and lifetime Gamer :video_game:,. I love to do anything that gives Adrenaline rush :zap:.
+I'm Kumar Harsh, a Competitive Programmer :man_technologist:,Full Stack Developer(MERN) :man_office_worker:,Cybersecurity Enthusiast :toolbox:,Freelancer :bow: and lifetime Gamer :video_game:,. I love to do anything that gives Adrenaline rush :zap:.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
