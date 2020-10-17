@@ -9,6 +9,7 @@
   <img align="left" alt="Kumar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
+<br />
 
 Hi, I'm Kumar Harsh, a Competitive Programmer :man_technologist:,Full Stack Developer(MERN) :man_office_worker:,Cybersecurity Enthusiast :toolbox:,Freelancer :bow: and lifetime Gamer :video_game:,. I love to do anything that gives Adrenaline rush :zap:.
 
