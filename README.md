@@ -13,7 +13,7 @@
 
 I'm Kumar Harsh, a Competitive Programmer :man_technologist:,Full Stack Developer(MERN) :man_office_worker:,Cybersecurity Enthusiast :toolbox:,Freelancer :bow: and lifetime Gamer :video_game:,. I love to do anything that gives Adrenaline rush :zap:.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
