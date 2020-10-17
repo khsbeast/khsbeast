@@ -40,42 +40,24 @@ Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Develop
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Vue.js       5 hrs 58 mins   ████████████▒░░░░░░░░░░░░   49.88 % 
-JavaScript   4 hrs 44 mins   ██████████░░░░░░░░░░░░░░░   39.60 % 
-HTML         1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+React.js    10 hrs 58 mins   ████████████▒░░░░░░░░░░░░   49.88 % 
+JavaScript   6 hrs 44 mins   ██████████░░░░░░░░░░░░░░░   39.60 % 
+CSS          1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 <!--END_SECTION:waka-->
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  5,477 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 32 tasks this week           
-✅  Completed 363 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-<details>
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-</details>
 
 
